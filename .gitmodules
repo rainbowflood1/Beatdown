@@ -1,0 +1,3 @@
+[submodule "TigerUI"]
+	path = TigerUI
+	url = https://github.com/rainbowflood1/TigerUI.git
